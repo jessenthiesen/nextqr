@@ -13,7 +13,7 @@ Link to the icloud for shortcuts:
 
 NextQR Audio https://www.icloud.com/shortcuts/5ee20b6d5edc47f2acb47ce01188f249
 
-NextQR Foto https://www.icloud.com/shortcuts/91acdf5f77ec41fe869a143afc9bafbf
+NextQR Photo https://www.icloud.com/shortcuts/91acdf5f77ec41fe869a143afc9bafbf
 
 NextQR File https://www.icloud.com/shortcuts/e2ef2027ce06400ca9b839ba475aa245
 
